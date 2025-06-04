@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
-import nameLogo from '../assets/Logo.svg';
+
 import dropDownAero from '../assets/dropdownAero.svg';
+import nameLogo from '../assets/Logo.svg';
 
 const navItems = ['home', 'works', 'about-me', 'contacts'];
 

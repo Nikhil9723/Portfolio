@@ -1,5 +1,5 @@
-import profilePhoto from "../assets/profilePhoto.svg";
 import hug from "../assets/hug 49.svg";
+import profilePhoto from "../assets/profilePhoto.svg";
 
 export default function Profile() {
   return (

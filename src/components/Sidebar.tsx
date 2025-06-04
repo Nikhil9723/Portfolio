@@ -1,5 +1,5 @@
-import githubLogo from '../assets/Github.svg'
 import dribble from '../assets/Dribble.svg'
+import githubLogo from '../assets/Github.svg'
 
 export default function Sidebar() {
   return (

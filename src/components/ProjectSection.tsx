@@ -1,5 +1,6 @@
-import ProjectCard from "./ProjectCard";
 import cardImg from "../assets/registerPage.png";
+
+import ProjectCard from "./ProjectCard";
 
 export default function ProjectSection() {
   return (
