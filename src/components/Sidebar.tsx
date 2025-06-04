@@ -1,4 +1,3 @@
-import React from 'react'
 import githubLogo from '../assets/Github.svg'
 import dribble from '../assets/Dribble.svg'
 
